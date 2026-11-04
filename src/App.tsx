@@ -53,7 +53,7 @@ const NAV = [
   { href: "#games", label: "الألعاب" },
   { href: "#cafe", label: "الكوفي" },
   { href: "#booking", label: "الحجز" },
-  { href: "#contact", label: "تواصل معنا" },
+  { href: "#contact", label: "تواصل " },
 ];
 
 const FEATURES = [
